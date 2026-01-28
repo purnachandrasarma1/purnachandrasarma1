@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purnachandrasarma1&label=Profile%20views&color=0e75b6&style=flat" alt="purnachandrasarma1" /> </p>
 
-- 🌱 I’m currently learning **Java, CSS, HTML, JavaScript**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, and GenAI**
 
 - 💬 Ask me about **Dog, Mountains**
 
