@@ -355,13 +355,3 @@ Generative AI, and Intelligent Autonomous Agents.
 </i>
 </p>
 ```
-
-### Where to paste it
-
-Your GitHub profile repository should have **exactly the same name as your GitHub username**:
-
-`purnachandrasarma1`
-
-Open that repository → open **README.md** → click the **pencil/Edit** icon → replace the existing content with the code above → click **Commit changes**.
-
-The resulting profile will emphasize five major areas: **DevOps & Cloud**, **Grafana/Prometheus observability**, **AI & Machine Learning**, **Generative/Agentic AI**, and **Microsoft Copilot Studio/Foundry**.
